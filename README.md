@@ -14,15 +14,14 @@
     ```json
     {
     	"Users": [{
-    			"Name": "CC", //自定义名字，选填
-    			"Cookie": "YNOTE_LOGIN=true; YNOTE_SESS=v2|abc" //有道云笔记客户端抓包的cookie
-    		}, {
-    			"Name": "MM",
-    			"Cookie": "YNOTE_LOGIN=true; YNOTE_SESS=v2|123"
+    			"Name": "AF", 
+    			"Cookie": "OUTFOX_SEARCH_USER_ID=-717286627@10.169.0.83; YNOTE_FORCE=true; YNOTE_SESS=v2|7w0Fz8xuQyqyOLkY0fq4ROM64zMRHUWRTuRMeynLgL0l5OfpZhLl50TB0feu0fTS0p40MPyOLPBRkGkMe4h4gZ0kY64YWhLg4R; YNOTE_LOGIN=1||1602049696186; JSESSIONID=aaaR3xaxzlhQxd09RhXtx
+" 
     		}
     	],
-    	"ScKey": "", //server酱sckey，不填不开启
-    	"ScType": "Failed" //通知类型. Always:始终通知; Failed:失败时通知; 不填/其他:不通知;
+    	"ScKey": "SCU114771T9018b1f066df87fecc5a89736df79e985f687b2c381cf
+", 
+    	"ScType": "Always" 
     }
     ```
 
