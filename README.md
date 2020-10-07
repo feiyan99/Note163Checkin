@@ -16,11 +16,10 @@
     	"Users": [{
     			"Name": "AF", 
     			"Cookie": "OUTFOX_SEARCH_USER_ID=-717286627@10.169.0.83; YNOTE_FORCE=true; YNOTE_SESS=v2|7w0Fz8xuQyqyOLkY0fq4ROM64zMRHUWRTuRMeynLgL0l5OfpZhLl50TB0feu0fTS0p40MPyOLPBRkGkMe4h4gZ0kY64YWhLg4R; YNOTE_LOGIN=1||1602049696186; JSESSIONID=aaaR3xaxzlhQxd09RhXtx
-" 
+"
     		}
     	],
-    	"ScKey": "SCU114771T9018b1f066df87fecc5a89736df79e985f687b2c381cf
-", 
+    	"ScKey": "SCU114771T9018b1f066df87fecc5a89736df79e985f687b2c381cf", 
     	"ScType": "Always" 
     }
     ```
